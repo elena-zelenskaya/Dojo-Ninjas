@@ -41,3 +41,5 @@ Ninja.objects.last().dojo_id
 
 Query: Create a new dojo
 Dojo.objects.create(name="New!", city="Castro Valley", state="CA", desc="THE NEW ONE!")
+
+ттт
